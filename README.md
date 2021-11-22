@@ -8,6 +8,7 @@
   
 [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/niv-bar/) 
 [<img align="left" alt="Daniel-isrealov | Gmail" width="25px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:niv19960@gmail.com)
+
 - 💻 Languages & Tools:  
 
     <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
@@ -19,8 +20,7 @@
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    <img height="35" width="35" src="https://www.saashub.com/images/app/service_logos/53/41b953e17a8a/large.png?1560066034"/>
-    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
+    
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niv19960&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/niv19960/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv19960&layout=compact&theme=dark&langs_count=10)](https://github.com/niv19960/github-readme-stats)
