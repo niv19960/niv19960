@@ -11,7 +11,7 @@
 - 💻 Languages & Tools:  
 
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img height="32" width="32" src="https://www.google.co.il/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fjupyter-logo%2F169453&psig=AOvVaw0bjZbizhNSoC5WOKVQjyE_&ust=1637669399176000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCx0Y_4q_QCFQAAAAAdAAAAABAD"/>
+    <img height="32" width="32" src="![image](https://user-images.githubusercontent.com/76657485/142859741-8f9168b5-4f0d-4fe8-bead-948955409003.png)"/>
     <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
     <img heigth="32" width="32" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
