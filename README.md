@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=niv19960)
 # Hi there, I'm Niv 👋
-### 3<sup>rd</sup> year Computer science student from Israel.
+### Data Scientist.
 ---
-- 🔭 I’m currently working on my B.Sc degree in Computer science.
-- 🌱 Data Scientist
+
 - 📫 How to reach me:  
   
 [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/niv-bar/) 
