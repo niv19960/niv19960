@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=niv19960)
 # Hi there, I'm Niv 👋
-### 3<sup>rd</sup> year Computer science student.From Israel.
+### 3<sup>rd</sup> year Computer science student from Israel.
 ---
 - 🔭 I’m currently working on my B.Sc degree in Computer science.
 - 🌱 Data Scientist
@@ -19,8 +19,6 @@
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
     <img height="35" width="35" src="https://www.saashub.com/images/app/service_logos/53/41b953e17a8a/large.png?1560066034"/>
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
    
