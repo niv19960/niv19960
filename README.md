@@ -8,7 +8,7 @@
   
 [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/niv-bar/) 
 [<img align="left" alt="Daniel-isrealov | Gmail" width="25px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:niv19960@gmail.com)
-
+<br>
 - 💻 Languages & Tools:  
 
     <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
